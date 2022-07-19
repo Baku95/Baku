@@ -1,0 +1,1 @@
+sprawdze czy ten plik doda sie na osobnym branchu
